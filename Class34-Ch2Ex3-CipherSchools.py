@@ -1,0 +1,6 @@
+a,b=input("enter name an character").split(",")
+a=a.casefold()
+b=input("enter single character:")
+b=b.casefold()
+print("lenght:",len(a))
+print("count:",a.count(b))

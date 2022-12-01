@@ -1,0 +1,5 @@
+# a=int(input())
+# b=int(input())
+# c=int(input())
+a,b,c=int(input())
+print(f"avg{(int(a)+int(b)+int(c))/3}")
